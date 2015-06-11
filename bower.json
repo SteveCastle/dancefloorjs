@@ -1,0 +1,30 @@
+{
+  "name": "dancefloorjs",
+  "version": "0.0.1",
+  "homepage": "https://github.com/SteveCastle/dancefloorjs",
+  "authors": [
+    "Steve Castle <steve.castle@drssmail.com>"
+  ],
+  "description": "Social dance party.",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "streaming",
+    "radio",
+    "server",
+    "client",
+    "music"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#1.0.0"
+  }
+}
